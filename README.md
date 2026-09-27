@@ -44,3 +44,5 @@ ResumeFit is an AI-powered resume parser and Applicant Tracking System (ATS) opt
    ```bash
    streamlit run app.py
    ```
+
+*Note: This project enforces secure PR workflows.*
